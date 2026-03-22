@@ -129,11 +129,17 @@ Rolling은 이런 비효율을 줄이기 위해 오픈매트와 대회 정보를
 
 
 ## 주요 화면
+| 로그인 | 메인 페이지 | 오픈매트 목록 |
+| :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/cf6fae43-f176-43c3-8901-5ea35bbc7ae7" width="250"> | <img src="https://github.com/user-attachments/assets/cf7bbe7e-704d-45d8-b517-5fe2f882f376" width="250"> | <img src="https://github.com/user-attachments/assets/fd034c76-6d6d-462d-863d-58775601888c" width="250"> |
 
-> 제안:  
-> 화면 캡처 이미지가 있다면 여기에 넣으세요.  
-> 예: 로그인 화면, 메인 화면, 오픈매트 목록, 오픈매트 상세, 대회 목록, 문의 화면
+| 오픈매트 신청 | 개최한 오픈매트 | 대회 목록 |
+| :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/14a6ec50-ad1f-4d46-8bb1-8f8711783008" width="250"> | <img src="https://github.com/user-attachments/assets/1e0d991b-3a2d-40d7-ad5a-a7e99f504a1d" width="250"> | <img src="https://github.com/user-attachments/assets/da3a5e7d-afb0-482c-835b-3adedd62be7c" width="250"> |
 
+| 대회 신청 | | |
+| :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/8da54cc0-e1f9-4f32-a453-6f932f848de5" width="250"> | | |
 
 ## 문제 정의
 
