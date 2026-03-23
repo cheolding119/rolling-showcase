@@ -129,6 +129,7 @@ Rolling은 이런 비효율을 줄이기 위해 오픈매트와 대회 정보를
 
 
 ## 주요 화면
+
 | 로그인 | 메인 페이지 | 오픈매트 목록 |
 | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/cf6fae43-f176-43c3-8901-5ea35bbc7ae7" width="250"> | <img src="https://github.com/user-attachments/assets/cf7bbe7e-704d-45d8-b517-5fe2f882f376" width="250"> | <img src="https://github.com/user-attachments/assets/fd034c76-6d6d-462d-863d-58775601888c" width="250"> |
@@ -137,9 +138,13 @@ Rolling은 이런 비효율을 줄이기 위해 오픈매트와 대회 정보를
 | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/14a6ec50-ad1f-4d46-8bb1-8f8711783008" width="250"> | <img src="https://github.com/user-attachments/assets/1e0d991b-3a2d-40d7-ad5a-a7e99f504a1d" width="250"> | <img src="https://github.com/user-attachments/assets/da3a5e7d-afb0-482c-835b-3adedd62be7c" width="250"> |
 
-| 대회 신청 | | |
+| 대회 신청 | FAQ / 도움말 | 관리자 페이지 (운영대응) |
 | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/8da54cc0-e1f9-4f32-a453-6f932f848de5" width="250"> | | |
+| <img src="https://github.com/user-attachments/assets/8da54cc0-e1f9-4f32-a453-6f932f848de5" width="250"> | <img src="https://github.com/user-attachments/assets/1322382c-b0ad-402a-b560-b4845118788f" width="250"> | <img src="https://github.com/user-attachments/assets/c539b150-e46f-4ddd-bfa4-7c4d14da711c" width="250"> |
+
+| 운영자 문의 답변 | | |
+| :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/330c1827-acd2-4f3e-b25e-4bc96bb7f130" width="250"> | | |
 
 ## 문제 정의
 
