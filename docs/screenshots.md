@@ -6,13 +6,17 @@ README의 썸네일을 클릭하면 이 문서의 각 섹션으로 이동합니�
 
 ## 사용자 화면
 
-| 로그인 | 메인 페이지 | 오픈매트 목록 |
-| :---: | :---: | :---: |
-| <a id="user-login"></a><img src="../assets/images/users/login.jpg" width="240" alt="로그인"> | <a id="user-main-page"></a><img src="../assets/images/users/main_page.jpg" width="240" alt="메인 페이지"> | <a id="user-openmat-list"></a><img src="../assets/images/users/openmat_list.jpg" width="240" alt="오픈매트 목록"> |
+| 로그인 | 메인 페이지 |
+| :---: | :---: |
+| <a id="user-login"></a><img src="../assets/images/users/login.jpg" width="360" alt="로그인"> | <a id="user-main-page"></a><img src="../assets/images/users/main_page.jpg" width="360" alt="메인 페이지"> |
 
-| 오픈매트 신청 | 개최한 오픈매트 | 대회 목록 |
-| :---: | :---: | :---: |
-| <a id="user-openmat-sign-up"></a><img src="../assets/images/users/openmat_sign_up.jpg" width="240" alt="오픈매트 신청"> | <a id="user-subject-open-mat"></a><img src="../assets/images/users/subject_open_mat.jpg" width="240" alt="개최한 오픈매트"> | <a id="user-tournaments-list"></a><img src="../assets/images/users/tournaments_list.jpg" width="240" alt="대회 목록"> |
+| 오픈매트 목록 | 오픈매트 신청 |
+| :---: | :---: |
+| <a id="user-openmat-list"></a><img src="../assets/images/users/openmat_list.jpg" width="360" alt="오픈매트 목록"> | <a id="user-openmat-sign-up"></a><img src="../assets/images/users/openmat_sign_up.jpg" width="360" alt="오픈매트 신청"> |
+
+| 개최한 오픈매트 | 대회 목록 |
+| :---: | :---: |
+| <a id="user-subject-open-mat"></a><img src="../assets/images/users/subject_open_mat.jpg" width="360" alt="개최한 오픈매트"> | <a id="user-tournaments-list"></a><img src="../assets/images/users/tournaments_list.jpg" width="360" alt="대회 목록"> |
 
 ## 관리자 화면
 
