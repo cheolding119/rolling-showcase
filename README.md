@@ -183,6 +183,14 @@ Rolling은 이런 비효율을 줄이기 위해 오픈매트와 대회 정보를
 **Documentation**
 ![Swagger](https://img.shields.io/badge/Swagger/OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
+## 롤링 아키텍처 다이어그램
+
+<p align="center">
+  <img src="assets/images/architecture/롤링_아키텍처_다이어그램.png" width="960" alt="롤링 아키텍처 다이어그램">
+</p>
+
+Rolling 서비스의 사용자 앱, 관리자 웹, 백엔드 API, 인프라/운영 구성을 한눈에 보여주는 아키텍처 다이어그램입니다.
+
 ## 프로젝트 구조
 
 ### Frontend
