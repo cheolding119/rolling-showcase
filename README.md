@@ -66,34 +66,34 @@ Rolling은 이런 비효율을 줄이기 위해 오픈매트와 대회 정보를
 
 | 로그인 | 메인 페이지 | 오픈매트 목록 |
 | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/cf6fae43-f176-43c3-8901-5ea35bbc7ae7" width="250"> | <img src="https://github.com/user-attachments/assets/cf7bbe7e-704d-45d8-b517-5fe2f882f376" width="250"> | <img src="https://github.com/user-attachments/assets/fd034c76-6d6d-462d-863d-58775601888c" width="250"> |
+| <img src="assets/images/users/login.jpg" width="250"> | <img src="assets/images/users/main_page.jpg" width="250"> | <img src="assets/images/users/openmat_list.jpg" width="250"> |
 
 | 오픈매트 신청 | 개최한 오픈매트 | 대회 목록 |
 | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/14a6ec50-ad1f-4d46-8bb1-8f8711783008" width="250"> | <img src="https://github.com/user-attachments/assets/1e0d991b-3a2d-40d7-ad5a-a7e99f504a1d" width="250"> | <img src="https://github.com/user-attachments/assets/da3a5e7d-afb0-482c-835b-3adedd62be7c" width="250"> |
+| <img src="assets/images/users/openmat_sign_up.jpg" width="250"> | <img src="assets/images/users/subject_open_mat.jpg" width="250"> | <img src="assets/images/users/tournaments_list.jpg" width="250"> |
 
 ### 관리자 주요 화면
 
 
 | 운영 대시보드 | 신고 관리 |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/71508f66-74eb-477f-88fd-6c0596008c42" width="420"> | <img src="https://github.com/user-attachments/assets/7bdb1b6f-ad86-46b7-b940-3ccf6482385c" width="420"> |
+| <img src="assets/images/admin/메인%20대시보드.jpg" width="420"> | <img src="assets/images/admin/신고%20관리.jpg" width="420"> |
 
 | 문의 관리 | 문의 답변 |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/439d8b8a-9607-405f-9001-c0faa321273c" width="420"> | <img src="https://github.com/user-attachments/assets/b65d2f32-4dcb-47ca-b383-14b94d07289d" width="420"> |
+| <img src="assets/images/admin/문의%20관리.jpg" width="420"> | <img src="assets/images/admin/문의%20답변.jpg" width="420"> |
 
 | 공지사항 관리 | 공지사항 작성 |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/f6b04cff-379a-4f74-9e07-de0aa2d6f112" width="420"> | <img src="https://github.com/user-attachments/assets/4157f9a2-6314-445c-8d5e-854c706fc4e4" width="420"> |
+| <img src="assets/images/admin/공지사항%20관리.jpg" width="420"> | <img src="assets/images/admin/공지사항%20작성.jpg" width="420"> |
 
 | 대회 운영 | 대회 수동 등록 |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/45c74c47-54ca-4644-a50c-56cc88af9aa0" width="420"> | <img src="https://github.com/user-attachments/assets/b8edceb5-5638-4602-a66a-b29b3c00f6e6" width="420"> |
+| <img src="assets/images/admin/대회%20운영.jpg" width="420"> | <img src="assets/images/admin/대회%20수동%20등록.jpg" width="420"> |
 
 | 대회 크롤링 실행 |  |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/42f28e90-ad9f-41e5-8e0b-fd64b973577a" width="420"> |  |
+| <img src="assets/images/admin/대회%20운영%20크롤링%20실행.jpg" width="420"> |  |
 
 ## 기술 스택
 
