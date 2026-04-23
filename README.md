@@ -38,13 +38,6 @@ Rolling은 이런 비효율을 줄이기 위해 오픈매트와 대회 정보를
 - 사용자 앱과 관리자 웹을 분리하고, `Nginx` + `Docker Compose` 기반 라우팅 및 배포 구조를 구성해 운영 확장성을 확보했습니다.
 - `Prometheus`, `Grafana`, `Slack Webhook`, `Actuator` 기반 운영 관측 체계를 도입해 프로덕션 대응 기반을 마련했습니다.
 
-## 시스템 아키텍처
-
-포트폴리오 관점에서 서비스의 전체 흐름과 운영 구조를 한눈에 보여주기 위해 아키텍처 다이어그램을 함께 정리했습니다.
-
-![롤링 시스템 아키텍처](assets/images/architecture/롤링_아키텍처_다이어그램.png)
-
-Flutter 사용자 앱, React 관리자 웹, Spring Boot 백엔드, PostgreSQL, S3, Firebase Cloud Messaging, 그리고 `Prometheus` / `Grafana` / `Slack Webhook` 기반 모니터링 구성이 어떻게 연결되는지 확인할 수 있습니다.
 
 ---
 
@@ -190,6 +183,14 @@ Flutter 사용자 앱, React 관리자 웹, Spring Boot 백엔드, PostgreSQL, S
 
 **Documentation**
 ![Swagger](https://img.shields.io/badge/Swagger/OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+
+## 시스템 아키텍처
+
+포트폴리오 관점에서 서비스의 전체 흐름과 운영 구조를 한눈에 보여주기 위해 아키텍처 다이어그램을 함께 정리했습니다.
+
+![롤링 시스템 아키텍처](assets/images/architecture/롤링_아키텍처_다이어그램.png)
+
 
 ## 프로젝트 구조
 
